@@ -1,0 +1,22 @@
+[2025-05-16 00:49:31] [145.0.50.67] Error en filtrado: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'field' in 'where clause'
+[2025-05-20 18:18:18] [145.0.50.67] Error en filtrado: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id' in 'where clause'
+[2025-05-20 19:09:16] [145.0.50.67] Error en filtrado de propiedades: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'dttopj,dttols,padrones,clavedt,nombredt,dttol' in 'where clause'
+[2025-05-30 20:17:04] [145.0.50.67] Error en filtrado: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'field' in 'where clause'
+[2025-05-31 01:16:16] [145.0.50.67] Error en filtrado: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'entidad' in 'where clause'
+[2025-06-05 19:43:53] [145.0.50.67] Error en filtrado: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'SERVICE' in 'where clause'
+[2026-08-27 00:37:52] [145.0.50.112] Error al obtener columnas: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sccmgpc.poligonos_ut' doesn't exist
+[2026-08-27 00:38:02] [145.0.50.112] Error al obtener columnas: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sccmgpc.poligonos_ut' doesn't exist
+[2026-08-27 00:38:03] [145.0.50.112] Error al obtener columnas: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sccmgpc.poligonos_ut' doesn't exist
+[2026-08-27 00:39:03] [145.0.50.112] Error al obtener columnas: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sccmgpc.poligonos_ut' doesn't exist
+[2026-08-27 00:40:11] [145.0.50.112] Error al obtener columnas: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sccmgpc.poligonos_ut' doesn't exist
+[2026-08-27 01:59:55] [145.0.50.112] Error al obtener columnas: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sccmgpc.poligonos_ut' doesn't exist
+[2026-08-27 02:01:57] [145.0.50.112] Error al obtener columnas: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sccmgpc.poligonos_ut' doesn't exist
+[2026-08-27 02:01:58] [145.0.50.112] Error al obtener columnas: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sccmgpc.poligonos_ut' doesn't exist
+[2026-08-27 17:40:12] [145.0.50.112] Error al obtener columnas: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sccmgpc.poligonos_ut' doesn't exist
+[2026-09-02 02:25:01] [145.0.51.70] Error subiendo archivo Designer.png: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'tipo_mime' in 'field list'
+[2026-09-02 02:26:14] [145.0.51.70] Error subiendo archivo 05-113.pdf: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'tipo_mime' in 'field list'
+[2026-09-02 02:26:24] [145.0.51.70] Error subiendo archivo 05-113.pdf: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'tipo_mime' in 'field list'
+[2026-09-02 02:30:10] [145.0.51.70] Error subiendo archivo f6113115-5de4-493a-8423-9a16d5fa6d1e.jpg: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'tipo_mime' in 'field list'
+[2026-09-02 17:53:40] [145.0.51.70] Error subiendo archivo f6113115-5de4-493a-8423-9a16d5fa6d1e.jpg: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'tipo_mime' in 'field list'
+[2026-09-03 19:24:39] [145.0.51.70] Error al obtener columnas: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sccmgpc.casos' doesn't exist
+[2026-09-08 18:49:54] [145.0.51.70] Error al obtener columnas: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'sccmgpc.seccxut' doesn't exist
